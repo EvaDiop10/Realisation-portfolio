@@ -42,3 +42,18 @@
     border-radius: 50px;
     color: #FFC8BA;
 }
+/* compétences */
+.carte-competence{
+    max-width: 75%;
+    max-height:50%;
+    border-radius: 10px;
+}
+.image-competence{
+    margin: 0 auto;
+
+}
+.text-competence{
+    text-align: center;
+    font-size:40px;
+
+}
