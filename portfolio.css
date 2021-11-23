@@ -57,3 +57,14 @@
     font-size:40px;
 
 }
+/* qualité */
+.qualité {
+    background: #FFC8BA;
+    height: 75%;
+}
+.text-qualite{
+    font-size: 25px;
+}
+.image-qualité{
+    float: right;
+}
