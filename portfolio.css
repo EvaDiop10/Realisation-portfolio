@@ -9,7 +9,7 @@
     border-radius:50px;
 }
 /* apropos*/
-   .photo-profil{
+.photo-profil{
     width: 75%;
     height:75%;
 }
@@ -21,4 +21,20 @@
     width:90%;
     height: 85%;
     
+}
+/*formation */
+.cadre-formation{
+    background: #FFC8BA;
+}
+.text-formation{
+ text-align: center;
+}
+.logo-formation{
+    width:25%;
+    height:50%;
+}
+.formation{
+    border-radius: 20px;
+    max-width: 90%;
+    max-height: 25%;
 }
