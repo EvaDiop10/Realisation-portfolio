@@ -76,3 +76,13 @@ text-align: center;
 .carte-experience{
     background: #FFC8BA;
 }
+/* centre-dinteret */
+.text-interet{
+    font-size: 20px;
+}
+.titre-interet{
+    color: #FFC8BA;
+}
+.text-langue{
+    font-size: 30px;
+}
