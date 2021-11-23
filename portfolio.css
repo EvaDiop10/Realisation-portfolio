@@ -1,1 +1,10 @@
+/* header */
 
+.header{
+    background: #FFC8BA;
+    text-align: center;
+    border-radius: 20px;
+}
+.home{
+    border-radius:50px;
+}
