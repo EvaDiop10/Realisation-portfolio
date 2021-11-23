@@ -27,7 +27,7 @@
     background: #FFC8BA;
 }
 .text-formation{
- text-align: center;
+text-align: center;
 }
 .logo-formation{
     width:25%;
@@ -58,13 +58,21 @@
 
 }
 /* qualité */
+
 .qualité {
     background: #FFC8BA;
     height: 75%;
 }
 .text-qualite{
-    font-size: 25px;
+    font-size: 22px;
 }
-.image-qualité{
+.a .image-qualité{
     float: right;
+}
+/* experience */
+.experience{
+    
+}
+.carte-experience{
+    background: #FFC8BA;
 }
