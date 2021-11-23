@@ -97,3 +97,13 @@ text-align: center;
     color: #FFC8BA;
     font-size: 20px;
 }
+/* contact */
+.cadre-contact{
+    background-color: #FFC8BA;
+}
+.bouton-contact{
+    
+}
+.message{
+    height: 75%;
+}
