@@ -102,8 +102,16 @@ text-align: center;
     background-color: #FFC8BA;
 }
 .bouton-contact{
-    
+
 }
 .message{
     height: 75%;
+}
+.texte-contact{
+    color: #FFC8BA;
+    border-radius:50px;
+    text-align: center;
+}
+.coordonne{
+    font-size: 20px;
 }
