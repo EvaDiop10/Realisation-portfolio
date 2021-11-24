@@ -1,14 +1,40 @@
-/* header */
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
+body{
+    font-family: 'Nunito', sans-serif;
+}
+/* header */
+.nav-desktop{
+    
+}
 .header{
+    
     background: #FFC8BA;
     text-align: center;
     border-radius: 20px;
+    float: right;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
 }
 .home{
     border-radius:50px;
+    color: #FFC8BA;
+    background: #050505;
 }
 /* apropos*/
+
+.plan-formation{
+    background: #FFC8BA;
+    border-left: black solid 10px;
+}
+.bouton-about{
+    background: #FFC8BA;
+}
+.reseau{
+}
 .photo-profil{
     width: 75%;
     height:75%;
@@ -18,7 +44,7 @@
 }
 .cadre-text{
     border-radius: 20px;
-    width:90%;
+    width:50%;
     height: 85%;
     
 }
@@ -58,7 +84,9 @@ text-align: center;
 
 }
 /* qualité */
-
+.qualité-desk{
+    font-size: 30px;
+}
 .qualité {
     background: #FFC8BA;
     height: 75%;
@@ -77,9 +105,7 @@ text-align: center;
     background: #FFC8BA;
 }
 /* centre-dinteret */
-.text-interet{
-    font-size: 22px;
-}
+
 .titre-interet{
     color: #FFC8BA;
 }
@@ -109,11 +135,4 @@ text-align: center;
     color: #FFC8BA;
     border-radius:50px;
     text-align: center;
-}
-.coordonne{
-    font-size: 20px;
-}
-.icone-contact{
-    width: 50%;
-    height 
 }
