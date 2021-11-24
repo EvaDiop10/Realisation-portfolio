@@ -78,7 +78,7 @@ text-align: center;
 }
 /* centre-dinteret */
 .text-interet{
-    font-size: 20px;
+    font-size: 22px;
 }
 .titre-interet{
     color: #FFC8BA;
@@ -104,9 +104,7 @@ text-align: center;
 .bouton-contact{
 
 }
-.message{
-    height: 75%;
-}
+
 .texte-contact{
     color: #FFC8BA;
     border-radius:50px;
@@ -114,4 +112,8 @@ text-align: center;
 }
 .coordonne{
     font-size: 20px;
+}
+.icone-contact{
+    width: 50%;
+    height 
 }
